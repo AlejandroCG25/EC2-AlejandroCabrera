@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EC2-AlejandroCabrera</string>
+    <string name="app">MarketMingle</string>
+    <string name="slogan">Conéctate, compra y vende en un solo lugar</string>
+
+    <string name="API_KEY">AIzaSyBGhoCncbt4s-guuGkIoG-DY3_z_mnIRsA</string>
+</resources>
